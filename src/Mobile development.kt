@@ -5,8 +5,9 @@ fun main() {
     println(Age)
     var PhoneNumber="0786738069"
     println(PhoneNumber)
-    var weight=50
+    var weight="50kgs"
     println(weight)
-    var citizen="Rwanda"
+    var citizen="Not Kenyan"
     println(citizen)
+
 }
